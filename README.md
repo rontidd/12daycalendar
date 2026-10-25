@@ -197,6 +197,9 @@ beside a STEP of each printed part.
 The same files, and any revisions, are on GitHub:
 https://github.com/rontidd/12daycalendar
 
+and on Thingiverse:
+https://www.thingiverse.com/thing:7427009
+
 ---
 
 ## Custom Section — the book
