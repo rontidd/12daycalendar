@@ -113,6 +113,12 @@ covers the M4 screw head. To take the calendar apart, peel it and print another.
    head. The barrel tops out on a shoulder inside the spacer, so the M4 clamps
    only the parts that turn: tighten it firmly and the wheel still spins on the
    bearing.
+
+   **The barrel's head rubs the underside of the base, and that's expected.**
+   The barrel turns with the knob, and its head runs against the plastic
+   under the floor, so the dial has a light, even drag. That drag works with
+   the detent clip to hold the setting where you leave it. If you'd rather it
+   turned freer, slip a thin nylon or PTFE washer under the barrel head.
 5. **Last, the knob label.** It covers the bolt hole. Press the optional knob
    sleeve on over it if you printed one.
 
