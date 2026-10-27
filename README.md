@@ -216,6 +216,11 @@ time and tells each one plainly — what is recorded, what is tradition, and wha
 was invented later by preachers and painters — with a map, the carol, ten
 recipes beside their period originals, and this calendar at the back.
 
+On Amazon:
+
+- Kindle: https://www.amazon.com/dp/B0HP8LSH83
+- Hardcover, with ruled pages of your own: https://www.amazon.com/dp/B0HPFJVNBN
+
 The calendar does not need the book, and the files here are free either way.
 
 ---
